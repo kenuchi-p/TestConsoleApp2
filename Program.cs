@@ -7,9 +7,11 @@ namespace TestConsoleApp1
 //        static void Main(string[] args)
         static int Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+//            Console.WriteLine("Hello World!");
+            Console.WriteLine("Hello World 02!");
 
-            return 123;
+//            return 123;
+            return 0;
         }
     }
 }
