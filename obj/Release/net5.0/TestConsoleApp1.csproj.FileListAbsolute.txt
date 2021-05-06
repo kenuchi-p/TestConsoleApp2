@@ -1,0 +1,15 @@
+C:\WORK\開発\Git\TestConsoleApp1\bin\Release\net5.0\TestConsoleApp1.exe
+C:\WORK\開発\Git\TestConsoleApp1\bin\Release\net5.0\TestConsoleApp1.deps.json
+C:\WORK\開発\Git\TestConsoleApp1\bin\Release\net5.0\TestConsoleApp1.runtimeconfig.json
+C:\WORK\開発\Git\TestConsoleApp1\bin\Release\net5.0\TestConsoleApp1.runtimeconfig.dev.json
+C:\WORK\開発\Git\TestConsoleApp1\bin\Release\net5.0\TestConsoleApp1.dll
+C:\WORK\開発\Git\TestConsoleApp1\bin\Release\net5.0\ref\TestConsoleApp1.dll
+C:\WORK\開発\Git\TestConsoleApp1\bin\Release\net5.0\TestConsoleApp1.pdb
+C:\WORK\開発\Git\TestConsoleApp1\obj\Release\net5.0\TestConsoleApp1.GeneratedMSBuildEditorConfig.editorconfig
+C:\WORK\開発\Git\TestConsoleApp1\obj\Release\net5.0\TestConsoleApp1.AssemblyInfoInputs.cache
+C:\WORK\開発\Git\TestConsoleApp1\obj\Release\net5.0\TestConsoleApp1.AssemblyInfo.cs
+C:\WORK\開発\Git\TestConsoleApp1\obj\Release\net5.0\TestConsoleApp1.csproj.CoreCompileInputs.cache
+C:\WORK\開発\Git\TestConsoleApp1\obj\Release\net5.0\TestConsoleApp1.dll
+C:\WORK\開発\Git\TestConsoleApp1\obj\Release\net5.0\ref\TestConsoleApp1.dll
+C:\WORK\開発\Git\TestConsoleApp1\obj\Release\net5.0\TestConsoleApp1.pdb
+C:\WORK\開発\Git\TestConsoleApp1\obj\Release\net5.0\TestConsoleApp1.genruntimeconfig.cache
