@@ -10,6 +10,7 @@ namespace TestConsoleApp1
 //            Console.WriteLine("Hello World!");
             Console.WriteLine("Hello World 02!");
             Console.WriteLine("こんにちは　世界 03!");
+            Console.WriteLine("追加01");
 
             //            return 123;
             return 0;
