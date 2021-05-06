@@ -9,8 +9,9 @@ namespace TestConsoleApp1
         {
 //            Console.WriteLine("Hello World!");
             Console.WriteLine("Hello World 02!");
+            Console.WriteLine("こんにちは　世界 03!");
 
-//            return 123;
+            //            return 123;
             return 0;
         }
     }

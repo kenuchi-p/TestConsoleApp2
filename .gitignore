@@ -1,2 +1,5 @@
 
 obj/Release/net5.0/TestConsoleApp1.assets.cache
+obj/Release/net5.0/TestConsoleApp1.assets.cache
+*.cache
+obj/Release/net5.0/TestConsoleApp1.assets.cache
